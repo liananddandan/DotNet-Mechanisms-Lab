@@ -1,0 +1,6 @@
+@DelegatingHandler.Client_HostAddress = http://localhost:5171
+
+GET {{DelegatingHandler.Client_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

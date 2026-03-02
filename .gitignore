@@ -1,0 +1,82 @@
+# ------------------------------
+# Build results
+# ------------------------------
+bin/
+obj/
+
+# ------------------------------
+# User-specific files
+# ------------------------------
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# ------------------------------
+# .NET generated
+# ------------------------------
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ------------------------------
+# ASP.NET / Web
+# ------------------------------
+wwwroot/lib/
+node_modules/
+
+# ------------------------------
+# OS files
+# ------------------------------
+.DS_Store
+Thumbs.db
+
+# ------------------------------
+# Test results
+# ------------------------------
+TestResults/
+
+# ------------------------------
+# Coverage
+# ------------------------------
+coverage/
+*.coverage
+*.coveragexml
+
+# ------------------------------
+# Publish output
+# ------------------------------
+publish/
+
+# ------------------------------
+# Secrets / env
+# ------------------------------
+appsettings.Development.json
+.env
+.env.*
+
+# ------------------------------
+# Logs
+# ------------------------------
+logs/
+*.log
