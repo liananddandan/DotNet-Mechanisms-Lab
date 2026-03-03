@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatingHandler.Server", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatingHandler.Client", "DelegatingHandler.Client\DelegatingHandler.Client.csproj", "{6B89D68E-E736-4769-9DB4-F1333875F130}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionAndHarmony", "ReflectionAndHarmony\ReflectionAndHarmony.csproj", "{3618D921-A70D-49A9-825E-B0AD6767F5C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{6B89D68E-E736-4769-9DB4-F1333875F130}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B89D68E-E736-4769-9DB4-F1333875F130}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B89D68E-E736-4769-9DB4-F1333875F130}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3618D921-A70D-49A9-825E-B0AD6767F5C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3618D921-A70D-49A9-825E-B0AD6767F5C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3618D921-A70D-49A9-825E-B0AD6767F5C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3618D921-A70D-49A9-825E-B0AD6767F5C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
